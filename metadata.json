@@ -1,0 +1,8 @@
+{
+  "name": "SHADOW PROTOCOL 2099: Echoes of the Last Light",
+  "description": "A third-person 3D sci-fi action-adventure game featuring dual-dimension Echo Shift gameplay, AI combat robotics, environmental puzzles, and an epic boss encounter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
